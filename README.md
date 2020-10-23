@@ -1,2 +1,2 @@
 # midtermProj
-Sir ang akong nga displacement sa consol ko nabutang
+Sir na display ko sa console ang akon nga displacement kag wala ko napa display ang velocity
